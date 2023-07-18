@@ -1,0 +1,15 @@
+.authors-authors-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.authors-authors-container1 {
+  gap: 12px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
